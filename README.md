@@ -43,6 +43,6 @@ Earlier Claude Code plugins, no longer actively maintained:
 
 ## Background
 
-I’ve worked on native apps since 2020, across banking and fintech, NordVPN’s macOS product at Nord Security, and on-device AI at Littlebird, where I built the local meeting transcription pipeline. I now focus on consulting and shipping my own apps and developer tools.
+I’ve worked on native apps since 2020, across banking and fintech, NordVPN’s macOS product at Nord Security, and on-device AI at Littlebird, where I built the local meeting transcription pipeline and improved how the assistant collects context from the screen. I now focus on consulting and shipping my own apps and developer tools.
 
 **Have a native app or AI workflow in mind?** [Tell me about your project.](https://dominikdrag.com/consulting/)
