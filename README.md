@@ -2,7 +2,7 @@
 
 **Independent Swift engineer & consultant · Warsaw, Poland**
 
-I build native apps and help teams work better with AI. I help teams build reliable iOS and macOS products and put AI to work in their everyday workflow. I also build my own apps and developer tools, putting these approaches into practice.
+I help teams build reliable iOS and macOS products and put AI to work in their everyday workflow. I also ship my own apps and developer tools, where I put these approaches into practice.
 
 [Website](https://dominikdrag.com/) · [Consulting](https://dominikdrag.com/consulting/) · [Work](https://dominikdrag.com/work/) · [Résumé](https://dominikdrag.com/resume/) · [hello@dominikdrag.com](mailto:hello@dominikdrag.com)
 
