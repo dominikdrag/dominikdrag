@@ -16,14 +16,14 @@ I build native apps and help teams work better with AI. I help teams build relia
 
 Designed and built by me. All available on the App Store.
 
-| App | What it does | Links |
-| --- | --- | --- |
-| **Launch Control** | Plan your morning backward from the time you need to leave. | [Website](https://dominikdrag.com/launch-control/) · [App Store](https://apps.apple.com/app/apple-store/id6805529235?pt=126891721&ct=github&mt=8) |
-| **DoseWise** | Keep medication schedules and dose history in one place. | [Website](https://dominikdrag.com/dosewise/) · [App Store](https://apps.apple.com/app/apple-store/id6812802587?pt=126891721&ct=github&mt=8) |
-| **Closed List** | Choose a finite list of commitments and know when you’ve done enough. | [Website](https://dominikdrag.com/closed-list/) · [App Store](https://apps.apple.com/app/apple-store/id6813543862?pt=126891721&ct=github&mt=8) |
-| **Clear Intervals** | Simple work and rest timers for your workouts. | [Website](https://dominikdrag.com/clear-intervals/) · [App Store](https://apps.apple.com/app/id6811099903) |
-| **InTouch** | Keep up with the people who matter to you. | [Website](https://dominikdrag.com/intouch/) · [App Store](https://apps.apple.com/app/apple-store/id6477324916?pt=126891721&ct=github&mt=8) |
-| **Carried** | Put what’s on your heart into words and receive a Christian prayer. | [Website](https://dominikdrag.com/carried/) · [App Store](https://apps.apple.com/app/apple-store/id6813835350?pt=126891721&ct=github&mt=8) |
+| | App | What it does | Links |
+| --- | --- | --- | --- |
+| <img src="icons/launch-control.png" width="48" height="48" alt="Launch Control icon"> | **Launch Control** | Plan your morning backward from the time you need to leave. | [Website](https://dominikdrag.com/launch-control/) · [App Store](https://apps.apple.com/app/apple-store/id6805529235?pt=126891721&ct=github&mt=8) |
+| <img src="icons/dosewise.png" width="48" height="48" alt="DoseWise icon"> | **DoseWise** | Keep medication schedules and dose history in one place. | [Website](https://dominikdrag.com/dosewise/) · [App Store](https://apps.apple.com/app/apple-store/id6812802587?pt=126891721&ct=github&mt=8) |
+| <img src="icons/closed-list.png" width="48" height="48" alt="Closed List icon"> | **Closed List** | Choose a finite list of commitments and know when you’ve done enough. | [Website](https://dominikdrag.com/closed-list/) · [App Store](https://apps.apple.com/app/apple-store/id6813543862?pt=126891721&ct=github&mt=8) |
+| <img src="icons/clear-intervals.png" width="48" height="48" alt="Clear Intervals icon"> | **Clear Intervals** | Simple work and rest timers for your workouts. | [Website](https://dominikdrag.com/clear-intervals/) · [App Store](https://apps.apple.com/app/id6811099903) |
+| <img src="icons/intouch.png" width="48" height="48" alt="InTouch icon"> | **InTouch** | Keep up with the people who matter to you. | [Website](https://dominikdrag.com/intouch/) · [App Store](https://apps.apple.com/app/apple-store/id6477324916?pt=126891721&ct=github&mt=8) |
+| <img src="icons/carried.png" width="48" height="48" alt="Carried icon"> | **Carried** | Put what’s on your heart into words and receive a Christian prayer. | [Website](https://dominikdrag.com/carried/) · [App Store](https://apps.apple.com/app/apple-store/id6813835350?pt=126891721&ct=github&mt=8) |
 
 ## Developer tools
 
